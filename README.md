@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pharmacure is a web application that is connected to a database and whenever a user gives an input it sends a query to the database gets a required solution and gives it to the user as output. It also gives latest information about medical field to the users. Users can also buy medicines and other medical related stuff in this website. This website is compatible in all devices.</p>
+Pharmacure is a web application that is connected to a database and whenever a user gives an input it sends a query to the database gets a required solution and gives it to the user as output. It also gives latest information about medical field to the users. Users can also buy medicines and other medical related stuff in this website. This website is compatible in all devices.
 Generally, due to busy lives people often neglect to visit a doctor for minor health issues like cold, cough, fever which may lead to serious diseases in future.This problem can be effectively solved by providing virtual assistance to users which behaves exactly like a doctor. This saves time and energy for people as everything is possible by clicking in your device instead of reaching a doctor.
 
 ## Motivation
@@ -29,4 +29,9 @@ The user receives a confirmation mail or a message to the given contact number w
 
 ## News/Notification Module
 Once the user enters the website he will get a popup of latest news. This is a default setting, if user don’t need a popup he/she can change in settings. If the user disables this feature then he can see news in a block at left side. Alert news can be seen scrolling in all web pages of the website. User also gets news in notification bar of their devices. When a user orders he/she will get notifications of the status of their shipment. The website also warns if the user is trying to buy medicines which are not suitable for his age.
+
+## Conclusion
+
+Therefore, Pharmacure website takes input from the user like age, blood group, past medical history while registering and keeps a track of it throughout the events. When user enters symptoms, a query is passed to the database requesting an appropriate result. User can even purchase medicines and can have the track of shipment till the end. These tracking is possible by a unique tracking ID which we provide. Users can also get update on latest medical information going on around the world.
+
 
