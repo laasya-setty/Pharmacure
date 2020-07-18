@@ -17,3 +17,16 @@ The proposed project “Pharmacure” is mainly based on providing suggestions t
 This website also provides an option for the users to buy medicines. Users are provided with multiple modes of payment like credit/debit and cash on delivery. Users are provided with a unique track Id when they order, using this track Id he/she can track their order until their shipment is reached.
 
 ![](images/flowchart.PNG)
+
+## Medicine Suggesting Module
+
+This module focuses on suggesting a medicine according to the symptoms given by the user. It gives suggestions keeping medical history, blood group, age in track. It also suggests dosages according to age and allergies. Information of every user is stored with the help of a database which is linked to the website. When a user types a symptom the website sends a query to the database, database will verify all the records and send an output to the user
+
+## Purchase Module
+
+After getting suggestions in medicine module, users can buy medicines directly in the website. Or else users can buy medicines that are suggested or can buy on their own. After adding items to the cart there will be a option as proceed further. If the user clicks it, the web page leads to a payment portal. The user has many options for mode of payment like credit/debit, cash on delivery. After completing all procedures and the user clicks checkout button then the order will be confirmed. 
+The user receives a confirmation mail or a message to the given contact number with the track Id and order details. The user can use the track Id and check where is his/her shipment until it is delivered to them. Every order creates a unique track Id which will be available only to that user. Once the order is delivered again the user gets a mail that the order is received.
+
+## News/Notification Module
+Once the user enters the website he will get a popup of latest news. This is a default setting, if user don’t need a popup he/she can change in settings. If the user disables this feature then he can see news in a block at left side. Alert news can be seen scrolling in all web pages of the website. User also gets news in notification bar of their devices. When a user orders he/she will get notifications of the status of their shipment. The website also warns if the user is trying to buy medicines which are not suitable for his age.
+
