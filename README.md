@@ -10,3 +10,4 @@ The proposed project “Pharmacure” is mainly based on providing suggestions t
  This website also provides user with latest information related to medical field. Alert news can also be seen scrolling in each webpage of our website. Users can change in settings if they do not want alert news. But this scroll is provided by default to every user.
 This website also provides an option for the users to buy medicines. Users are provided with multiple modes of payment like credit/debit and cash on delivery. Users are provided with a unique track Id when they order, using this track Id he/she can track their order until their shipment is reached.
 </p>
+![flowchart](flowchart.png)
